@@ -143,5 +143,5 @@ c1.imprimirDados();  // Pedro Silveira
 /*
 Sobrescrita de método - Overwriting
 
-- Polimorfismo - Dois objetos do mesmo tipo tendo comportamentos diferentes
+- Polimorfismo - Dois objetos do mesmo tipo tendo comportamentos diferentes.
 */
